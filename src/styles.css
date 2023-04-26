@@ -1,0 +1,37 @@
+#myshopit-timestamp-converter {
+  width: 100%;
+  padding: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (min-width: 576px) {
+  #myshopit-timestamp-converter {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  #myshopit-timestamp-converter {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  #myshopit-timestamp-converter {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #myshopit-timestamp-converter {
+    max-width: 1140px;
+  }
+}
+
+#myshopit-timestamp-converter .ant-picker {
+  width: 100%;
+}
+#myshopit-timestamp-converter .ant-space-compact {
+  width: 100%;
+}
